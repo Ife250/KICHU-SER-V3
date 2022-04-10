@@ -35,7 +35,7 @@ global.APIKeys = { // The APIKey is here
 const spack = fs.readFileSync("lib/exif.json")
 const stickerpack = JSON.parse(spack)
 if (stickerpack.spackname == '') {
-  var sticker_name = 'KICHU-SER-V3❤'
+  var sticker_name = 'KINGSLEY-SER-V3❤'
 } else {
   var sticker_name = stickerpack.spackname
 }
@@ -51,11 +51,11 @@ fs.watchFile(file_exif, () => {
 global.packname = sticker_name
 
 
-global.wait = '_*Plz wait kingsley is on the way..*_'
-global.eror = '_*Server error sad it happens yah*_'
+global.wait = '_*Plz🤖🚬wait kingsley😎🚬💨here..*_'
+global.eror = '_*Server😷🚬error 😂has Corona 😷💉 sad it happens*_'
 global.fla = 'https://telegra.ph/file/d4753818ba4a1d159c0a6.jpg'
 
-global.watermark = '© kingsley'
+global.watermark = '© 🤖kingsley😎🚬'
 
 global.multiplier = 69 // The higher it is, the harder it is to level up
 
