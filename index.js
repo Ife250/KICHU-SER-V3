@@ -9,7 +9,7 @@ CFonts.say('κιcнusᴇʀ', {
   font: 'block',
   align: 'center',
 })
-CFonts.say(`'KICHU SER V3' By Kichu`, {
+CFonts.say(`'KINGSLEY😜 SER V3' By Kíñgsléy🤖🚬`, {
   colors: ['#f2aa4c'],
   font: 'console',
   align: 'center',
