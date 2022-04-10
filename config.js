@@ -1,5 +1,5 @@
 let fs = require('fs')
-global.owner = ['919961857267'] // Put your number here
+global.owner = ['265889976968'] // Put your number here
 global.mods =  JSON.parse(fs.readFileSync('./src/moderator.json'))// Moderator?
 global.prems = JSON.parse(fs.readFileSync('./src/premium.json')) // Premium users do not need a limit
 global.tod = JSON.parse(fs.readFileSync('./src/tod.json'))
@@ -51,11 +51,11 @@ fs.watchFile(file_exif, () => {
 global.packname = sticker_name
 
 
-global.wait = '_*Please Wait..*_'
-global.eror = '_*Server Error*_'
+global.wait = '_*Plz wait kingsley is on the way..*_'
+global.eror = '_*Server error sad it happens yah*_'
 global.fla = 'https://telegra.ph/file/d4753818ba4a1d159c0a6.jpg'
 
-global.watermark = '© κιcнusᴇʀ'
+global.watermark = '© kingsley'
 
 global.multiplier = 69 // The higher it is, the harder it is to level up
 
